@@ -10,7 +10,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴜɴᴀɴʏᴍᴇ!  
 *Full Stack Developer & Tech Enthusiast | Yan Gonçalves*  
 <br />
-
+<br>
 
 <!--Start Intro-->               
 <p align="left">🚀 Aspiring Full Stack Developer | JavaScript Enthusiast | HTML & CSS Expert | Exploring Angular & Java</p>
