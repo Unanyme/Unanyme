@@ -114,9 +114,9 @@
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/unanyme">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=unanyme&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
+        <a href="https://unanyme.github.io/estudos-html-css/modulo02/desafios/desafio12/cordel/index.html" target="_blank">
+        <img align="center" src="https://github-contributor-stats.vercel.app/api?username=unanyme&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Cordel Project" />
+      </a>
       </p>
     </td>
   </tr>
